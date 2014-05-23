@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitry/cpp/binTree/test.cpp
+iostream
+-
+tree.hpp
+/home/dmitry/cpp/binTree/tree.hpp
+ctime
+-
+cstdlib
+-
+
+/home/dmitry/cpp/binTree/tree.hpp
+treenode.hpp
+/home/dmitry/cpp/binTree/treenode.hpp
+
+/home/dmitry/cpp/binTree/treenode.hpp
+

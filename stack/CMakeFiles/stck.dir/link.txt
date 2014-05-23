@@ -1,0 +1,1 @@
+/usr/bin/g++    -std=c++14 -Wall    CMakeFiles/stck.dir/stack.cpp.o CMakeFiles/stck.dir/test.cpp.o  -o stck -rdynamic 

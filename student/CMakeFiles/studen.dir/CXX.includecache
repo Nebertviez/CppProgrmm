@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitry/cpp/student/student.cpp
+student.hpp
+/home/dmitry/cpp/student/student.hpp
+
+/home/dmitry/cpp/student/student.hpp
+iostream
+-
+string
+-
+valarray
+-
+
+/home/dmitry/cpp/student/test.cpp
+student.hpp
+/home/dmitry/cpp/student/student.hpp
+
