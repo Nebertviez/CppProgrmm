@@ -1,1 +1,0 @@
-/home/dmitry/cpp/stack/CMakeFiles/stck.dir
